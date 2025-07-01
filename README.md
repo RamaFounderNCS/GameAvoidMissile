@@ -34,11 +34,6 @@ https://ramafounderncs.github.io/GameAvoidMissile/
 
 ---
 
-## 🖼️ Screenshot
-(Sertakan screenshot agar lebih menarik—contohnya: layar utama saat bermain, game over, dll.)
-
----
-
 ## ⚙️ Instalasi & Cara Main
 1. **Clone repository**  
    ```bash
@@ -126,7 +121,7 @@ Project ini dilisensikan di bawah **MIT License**—boleh digunakan, dimodifikas
 Dibuat oleh **Newbie Cyber Security** (alias RamaFounderNCS).  
 Untuk saran/masukan:
 - GitHub: [RamaFounderNCS](https://github.com/RamaFounderNCS)  
-- Email: _optional, jika mau dimasukkan_
+- Email: offcncs@gmail.com
 
 ---
 
